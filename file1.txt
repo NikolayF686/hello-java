@@ -1,1 +1,2 @@
 line from user 1
+new line from user 2
