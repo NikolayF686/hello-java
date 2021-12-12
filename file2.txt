@@ -1,2 +1,3 @@
 first changes
 line from user 2
+line from user 2 - lesson about rebase
